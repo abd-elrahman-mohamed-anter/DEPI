@@ -1,6 +1,9 @@
 # All My Tasks and Projects
 
 Here are all my projects on GitHub organized in one place:
+## Ansible Projects
+- [ansible-1](https://github.com/abd-elrahman-mohamed-anter/ansible-1)
+
 
 ## Docker Projects
 - [docker-1](https://github.com/abd-elrahman-mohamed-anter/docker-1)
