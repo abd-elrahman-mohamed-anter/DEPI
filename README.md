@@ -2,6 +2,7 @@
 
 Here are all my projects on GitHub organized in one place:
 ## Ansible Projects
+- [ansible-1](https://github.com/abd-elrahman-mohamed-anter/ansible-2)
 - [ansible-1](https://github.com/abd-elrahman-mohamed-anter/ansible-1)
 
 
