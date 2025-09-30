@@ -1,6 +1,13 @@
 # All My Tasks and Projects
 
 Here are all my projects on GitHub organized in one place:
+## Terraform Projects
+- [Terraform-1](https://github.com/abd-elrahman-mohamed-anter/terraform-with-aws-1)
+- [Terraform-2](https://github.com/abd-elrahman-mohamed-anter/terraform-with-aws-2)
+
+
+## Aws Projects
+- [aws flask project with ec2 ](https://github.com/abd-elrahman-mohamed-anter/aws-demo1-ec2)
 ## CI/CD Projects
 - [Git hub actions with spring ](https://github.com/abd-elrahman-mohamed-anter/jenkins-spring/tree/main/.github/workflows)
 ## Ansible Projects
