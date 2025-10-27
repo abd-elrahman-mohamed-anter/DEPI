@@ -2,6 +2,7 @@
 
 Here are all my projects on GitHub organized in one place:
 ## K8S Projects
+- [K8S-spring-deployment-With-monitoring](https://github.com/abd-elrahman-mohamed-anter/k8s-db-prometheus-grafana-local-.git)
 - [EKS-spring-deployment](https://github.com/abd-elrahman-mohamed-anter/spring-with-eks)
 - [K8S-spring-deployment](https://github.com/abd-elrahman-mohamed-anter/minikube-spring-1)
 
