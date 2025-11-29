@@ -1,6 +1,9 @@
 # All My Tasks and Projects
 
 Here are all my projects on GitHub organized in one place:
+## Argo-cd and prometheus and grafana
+- [Argo-cd](https://github.com/abd-elrahman-mohamed-anter/all-argo-spring)
+
 ## K8S Projects
 - [K8S-spring-deployment-With-monitoring](https://github.com/abd-elrahman-mohamed-anter/k8s-db-prometheus-grafana-local-.git)
 - [EKS-spring-deployment](https://github.com/abd-elrahman-mohamed-anter/spring-with-eks)
